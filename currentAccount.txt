@@ -1,0 +1,133 @@
+
+0
+Nima Sherpa
+Nishep Sherpa
+kathmndu,buspark
+986473233445
+nima@gmail.com
+C
+1000
+4.2
+2021
+7
+21
+1
+Laxman Basnet
+Hari Basnet
+kathandu,balaje
+98343434545
+laxman@gmail.com
+C
+12434
+4.2
+2021
+7
+21
+3
+Hari Lama
+Sita Lama
+Kathmandu,balaju
+986654342345
+hari@gmail.com
+C
+3000
+4.2
+2021
+7
+21
+4
+Suman Lama
+Kumar Lama
+kathmandu,balaju
+9876456733456
+suman@gmail.com
+C
+4000
+4.2
+2021
+7
+21
+5
+Sujan Tamang
+Sajan Tamang
+kathmandu,balaju
+9845455634345
+sujan@gmail.com
+C
+4000
+4.2
+2021
+7
+21
+6
+Sunita Tamang
+Sunil Tamang
+kathmandu,balaju
+986745342356
+sunita@gmail.com
+C
+4000
+4.2
+2021
+7
+21
+7
+Raj Kumar Tamang
+Hari Maya Tamang
+kathmandu,balaju
+986767563445
+raj@gmail.com
+C
+3000
+4.2
+2021
+7
+21
+8
+Joker lama
+hari maya
+kathmandu
+98454545
+gfgfg@dff
+C
+1000
+4.2
+2021
+8
+13
+9
+hook maya
+nepal maya
+kathmandu
+343434
+ggfg34
+C
+1000
+4.2
+2021
+8
+13
+10
+Jack Basnet
+Sumit Basnet
+kathmandu
+986754234523
+jack@gmail.com
+C
+1000
+4.2
+2021
+8
+13
+11
+Nishal Basnet
+Hari Basnet
+Kathmandu
+9868843608
+nishal@gmail.com
+C
+1000
+4.2
+2021
+8
+14
